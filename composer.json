@@ -28,7 +28,10 @@
     "scripts": {
         "post-root-package-install": [
             "php -r \"copy('.env.example', '.env');\""
-        ]
+        ],
+        "test-e2e": "echo 'run e2e test here'",
+        "test-smoke": "echo 'run smoke test here'",
+        "test-apicompatibility": "echo 'run apicompatibility test here'"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,

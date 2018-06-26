@@ -10,6 +10,15 @@ Simply run:
 ```
 composer install
 ``` 
+To run tests one from below, run:
+
+```
+test-e2e
+test-smoke
+test-apicompatibility
+```
+Those are predefined for cloudfoundry purposes.
+If you use other names, you must map them so that they fit predefined ones.
 
 ## License
 
