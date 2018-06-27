@@ -1,9 +1,9 @@
 ---
 applications:
-- name: cf-php-demo
+- name: spring-cloud-pipelines-php
   memory: 128M
-  instances: 1
-  host: cf-php-demo
-  domain: cfapps.io
-  path: .
-  buildpack: https://github.com/dmikusa-pivotal/cf-php-apache-buildpack.git
+  #instances: 1
+  #host: scpipelines-cf-php-demo
+  #domain: cfapps.io
+  #path: .
+  buildpack: https://github.com/dmikusa-pivotal/cf-php-build-pack.git
