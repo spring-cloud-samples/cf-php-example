@@ -5,5 +5,5 @@ applications:
   #instances: 1
   #host: scpipelines-cf-php-demo
   #domain: cfapps.io
-  #path: .
+  path: .
   buildpack: https://github.com/dmikusa-pivotal/cf-php-build-pack.git
