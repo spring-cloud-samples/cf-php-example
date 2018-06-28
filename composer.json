@@ -30,7 +30,7 @@
             "php -r \"copy('.env.example', '.env');\""
         ],
         "group-id": "echo 'com.example'",
-        "app-name": "echo 'spring-cloud-pipelines-php'",
+        "app-name": "echo 'github-webhook'",
         "test-e2e": "echo 'run e2e test here'",
         "test-smoke": "echo 'run smoke test here'",
         "test-apicompatibility": "echo 'run apicompatibility test here'"
