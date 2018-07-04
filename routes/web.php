@@ -12,5 +12,5 @@
 */
 
 $router->get('/', function () use ($router) {
-    return "Hello from PHP! :)";
+    return "<img src=\"awesome.gif\"> <br />Hello from PHP! :)";
 });
