@@ -30,7 +30,7 @@
             "php -r \"copy('.env.example', '.env');\""
         ],
         "group-id": "echo 'com.example'",
-        "app-name": "echo 'github-webhook'",
+        "app-name": "echo 'cf-php-example'",
         "test-e2e": "curl ${APPLICATION_URL} --fail",
         "test-smoke": "curl ${APPLICATION_URL} --fail",
         "test-apicompatibility": "echo 'run apicompatibility test here'"
