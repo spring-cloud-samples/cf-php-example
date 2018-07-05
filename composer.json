@@ -31,8 +31,8 @@
         ],
         "group-id": "echo 'com.example'",
         "app-name": "echo 'github-webhook'",
-        "test-e2e": "echo 'run e2e test here'",
-        "test-smoke": "echo 'run smoke test here'",
+        "test-e2e": "curl ${APPLICATION_URL} --fail",
+        "test-smoke": "curl ${APPLICATION_URL} --fail",
         "test-apicompatibility": "echo 'run apicompatibility test here'"
     },
     "minimum-stability": "dev",
