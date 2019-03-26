@@ -22,4 +22,4 @@ If you use other names, you must map them so that they fit predefined ones.
 
 ## License
 
-The [Lumen Framework](https://lumen.laravel.com) is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+The [Lumen Framework](https://lumen.laravel.com) is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT)
